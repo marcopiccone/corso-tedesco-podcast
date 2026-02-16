@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+    <title>Corso di Tedesco</title>
+    <description>Le mie lezioni di tedesco</description>
+    <link>https://marcopiccone.github.io/corso-tedesco-podcast</link>
+    <language>de</language>
+    <itunes:author>Marco Piccone</itunes:author>
+    <itunes:summary>Le mie lezioni di tedesco</itunes:summary>
+    <itunes:owner>
+        <itunes:name>Marco Piccone</itunes:name>
+        <itunes:email>marco.piccone@me.com</itunes:email>
+    </itunes:owner>
+    <!--<itunes:image href="https://marcopiccone.github.io/corso-tedesco-podcast/artwork.jpg"/>-->
+    <itunes:category text="Education">
+        <itunes:category text="Language Learning"/>
+    </itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+
+    <item>
+        <title>Erste Lektion</title>
+        <description>Prima lezione di tedesco</description>
+        <enclosure url="https://marcopiccone.github.io/corso-tedesco-podcast/001. Erste Lektion.m4a" length="629982" type="audio/x-m4a"/>
+        <guid isPermaLink="false">lezione1</guid>
+        <pubDate>Mon, 16 Feb 2026 10:00:00 +0000</pubDate>
+        <itunes:duration>00:00:26</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <title>Zweite Lektion</title>
+        <description>Seconda lezione di tedesco</description>
+        <enclosure url="https://marcopiccone.github.io/corso-tedesco-podcast/002. Zweite Lektion.m4a" length="783258" type="audio/x-m4a"/>
+        <guid isPermaLink="false">lezione2</guid>
+        <pubDate>Mon, 16 Feb 2026 11:00:00 +0000</pubDate>
+        <itunes:duration>00:00:32</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <title>Dritte Lektion</title>
+        <description>Terza lezione di tedesco</description>
+        <enclosure url="https://marcopiccone.github.io/corso-tedesco-podcast/003. Dritte Lektion.m4a" length="632046" type="audio/x-m4a"/>
+        <guid isPermaLink="false">lezione3</guid>
+        <pubDate>Mon, 16 Feb 2026 12:00:00 +0000</pubDate>
+        <itunes:duration>00:00:26</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+</channel>
+</rss>
