@@ -13,7 +13,7 @@
         <itunes:name>Marco Piccone</itunes:name>
         <itunes:email>marco.piccone@me.com</itunes:email>
     </itunes:owner>
-    <!--<itunes:image href="https://marcopiccone.github.io/corso-tedesco-podcast/artwork.jpg"/>-->
+    <itunes:image href="https://marcopiccone.github.io/corso-tedesco-podcast/tedesco_assimil.jpg"/>
     <itunes:category text="Education">
         <itunes:category text="Language Learning"/>
     </itunes:category>
