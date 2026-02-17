@@ -51,5 +51,15 @@
         <itunes:explicit>no</itunes:explicit>
     </item>
 
+    <item>
+        <title>Vierte Lektion - Das ist das neue Haus</title>
+        <description>Quartq lezione di tedesco</description>
+        <enclosure url="https://marcopiccone.github.io/corso-tedesco-podcast/004. Vierte Lektion.mp3" length="1018198" type="audio/x-mp3"/>
+        <guid isPermaLink="false">lezione3</guid>
+        <pubDate>Mon, 16 Feb 2026 12:00:00 +0000</pubDate>
+        <itunes:duration>00:01:04</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
 </channel>
 </rss>
